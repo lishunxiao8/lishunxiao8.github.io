@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[李顺孝个人站点]]></title>
-  <subtitle><![CDATA[个人书法、绘画作品展览]]></subtitle>
+  <title><![CDATA[李顺孝官方网站]]></title>
+  <subtitle><![CDATA[李顺孝书画作品展览]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://lishunxiao8.gitcafe.io/"/>
   <updated>2015-12-16T14:47:28.563Z</updated>
